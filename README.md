@@ -58,7 +58,7 @@
 
 | Certification                                    | Issuer                                                                                                                                              | Link                                                                                                               | Issued Date  |
 | :----------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :----------- |
-| ISTQB® CTFL                                      | [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/ "ISTQB - International Software Testing Qualifications Board") | [Passed List](https://www.sl-stb.org/exam/results.html "Passed List")                                              | Jul 17, 2017 |
+| ISTQB® CTFL                                      | [ISTQB - International Software Testing Qualifications Board](https://www.istqb.org/ "ISTQB - International Software Testing Qualifications Board") | [Passed List](https://www.sl-stb.org/exam/results.html "Passed List")                                              | Feb 2021 |
 
 <br />
 <br />
