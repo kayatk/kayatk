@@ -13,7 +13,6 @@
 
 <p>
 <img height="40" src="https://user-images.githubusercontent.com/9147189/132085485-77d9a8a3-714e-4522-922b-5047338cdbb1.png">
-<img height="40" src="https://user-images.githubusercontent.com/9147189/132085451-dfda532a-fd54-430b-8eb3-48c5b96fbe64.png">
 <img height="40" src="https://user-images.githubusercontent.com/9147189/132085461-e585bb96-6a46-4497-b72b-2391b2f10e4b.png">
 <img height="40" src="https://github.com/user-attachments/assets/5ac89720-1cc3-477a-a2df-2b45ec8abe2a">
 <img height="40" src="https://user-images.githubusercontent.com/9147189/132085605-08c3bed6-54d9-4062-883c-1b34fa99c925.png">
@@ -25,8 +24,6 @@
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
