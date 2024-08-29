@@ -64,7 +64,7 @@
 
 
 <div id="github-stats" style="display: flex; gap: 10px;"> 
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=kayatk&theme=vue-dark&show_icons=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=kayatk&theme=vue-dark&show_icons=true&card_width=465" />
    <img src="https://github-readme-stats.vercel.app/api?username=kayatk&theme=vue-dark&show_icons=true" />
 </div>
 
