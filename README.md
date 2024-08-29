@@ -64,7 +64,8 @@
 
 
 <div id="github-stats" style="display: flex; gap: 10px;"> 
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=kayatk&theme=vue-dark&show_icons=true&card_width=465" />
-   <img src="https://github-readme-stats.vercel.app/api?username=kayatk&theme=vue-dark&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kayatk&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="kayatk's GitHub Stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayatk&theme=dark&hide_border=true" alt="kayatk's GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayatk&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="kayatk's GitHub Stats" />
 </div>
 
