@@ -3,7 +3,7 @@
 ## I'm Kayaththiri!.
 
 - 💼 QA Automation Engineer.
-- 🌱 Constantly exploring new tools and technologies to stay ahead in the rapidly evolving tech landscape.
+- 🌱 Continuously learning and adopting new tools and technologies to keep up with the fast-paced changes in the tech industry.
 - 📚 I’m learning Typescript and Playwright.
 - 👯 I’m open to collaborating on fun and innovative projects or contributing to impactful open-source initiatives
 <br />
